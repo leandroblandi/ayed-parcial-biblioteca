@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1727750851 source:/home/nykolai/Escritorio/parcialAyedOct2024/autor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autor.h"
+
+1727750886 source:/home/nykolai/Escritorio/parcialAyedOct2024/biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1727750893 source:/home/nykolai/Escritorio/parcialAyedOct2024/libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libro.h"
+
+1727752228 source:/home/nykolai/Escritorio/parcialAyedOct2024/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1727750690 /home/nykolai/Escritorio/parcialAyedOct2024/autor.h
+
+1727750690 /home/nykolai/Escritorio/parcialAyedOct2024/biblioteca.h
+	"libro.h"
+
+1727750690 /home/nykolai/Escritorio/parcialAyedOct2024/libro.h
+	"autor.h"
+
+1727752207 source:/home/nykolai/Escritorio/parcialAyedOct2024/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1727752207 /home/nykolai/Escritorio/parcialAyedOct2024/lista.h
+	"nodo.h"
+
+1727752207 /home/nykolai/Escritorio/parcialAyedOct2024/nodo.h
+
+1727752207 source:/home/nykolai/Escritorio/parcialAyedOct2024/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1727821878 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/autor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"autor.h"
+
+1727821124 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/autor.h
+	<stdbool.h>
+
+1727821916 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"lista.h"
+	"libro.h"
+	"autor.h"
+	"biblioteca.h"
+
+1727821501 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/biblioteca.h
+	"lista.h"
+	"libro.h"
+
+1727819864 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/libro.h
+	"autor.h"
+
+1727821927 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libro.h"
+
+1727821956 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1727821871 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/lista.h
+	"nodo.h"
+
+1727752208 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/nodo.h
+
+1727821976 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1727821964 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1727821674 /home/estudiante/Escritorio/blandi/parcialAyedOct2024/funciones.h
+
+1727821785 source:/home/estudiante/Escritorio/blandi/parcialAyedOct2024/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
